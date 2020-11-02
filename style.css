@@ -1,5 +1,10 @@
 @import "https://www.w3.org/StyleSheets/Core/Steely"; 
 
+body {
+    font-size: 2em;
+}
+    
+
 li {
 	margin: 1em;
 }
